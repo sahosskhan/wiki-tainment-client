@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "Name": "English"
+    },
+    {
+      "id": 2,
+      "Name": "Hindi"
+    },
+    {
+      "id": 3,
+      "Name": "Tamil"
+    },
+    {
+      "id": 4,
+      "Name": "Telugu"
+    },
+    {
+      "id": 5,
+      "Name": "Kannada"
+    },
+    {
+      "id": 6,
+      "Name": "Malayalam"
+    },
+    {
+      "id": 7,
+      "Name": "Punjabi"
+    },
+    {
+      "id": 8,
+      "Name": "Bangla(Kolkata)"
+    },
+    {
+      "id": 9,
+      "Name": "Bangla(BD)"
+    },
+    {
+      "id": 10,
+      "Name": "Chinese"
+    },
+    {
+      "id": 11,
+      "Name": "Korean"
+    },
+    {
+      "id": 12,
+      "Name": "Japanese"
+    },
+    {
+      "id": 13,
+      "Name": "Indonesian"
+    },
+    {
+      "id": 14,
+      "Name": "Pakistani"
+    },
+    {
+      "id": 15,
+      "Name": "Others"
+    }
+  
+  ]
+  
